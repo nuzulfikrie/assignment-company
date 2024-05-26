@@ -15,7 +15,7 @@
     "@types/ziggy-js": "^1.8.0",
     "@vitejs/plugin-react": "^2.2.0",
     "autoprefixer": "^10.4.19",
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "flowbite": "^2.3.0",
     "laravel-vite-plugin": "^0.7.8",
     "postcss": "^8.4.38",
