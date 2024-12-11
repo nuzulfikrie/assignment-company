@@ -4413,8 +4413,7 @@
             "time": "2024-10-23T06:56:12+00:00"
         },
         {
-            "name": "symfony/http-foundation",
-            "version": "v7.2.0",
+            "name": "symfony/http-foundation", "version": "v7.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
@@ -4750,7 +4749,7 @@
                 "mime-type"
             ],
             "support": {
-                "source": "https://github.com/symfony/mime/tree/v7.2.0"
+              "source": "https://github.com/symfony/mime/tree/v7.2.0"
             },
             "funding": [
                 {
